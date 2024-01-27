@@ -108,8 +108,8 @@ Project Link: [https://github.com/Sevex438/ProjectMenu](https://github.com/Sevex
 
 [Qt]:https://img.shields.io/badge/Qt-32CD32?style=for-the-badge&logo=Qt&logoColor=white
 [Qt-url]: https://qt.io
-[C++]: https://img.shields.io/badge/C++-CD5C5C?style=for-the-badge&logo=C++&logoColor=white
-[C++-url]: https://isocpp.org/
+[C++]:https://img.shields.io/badge/C++-CD5C5C?style=for-the-badge&logo=C++&logoColor=white
+[C++-url]:https://isocpp.org/
 [SQL]:https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=SQL&logoColor=white
-[SQL-url]: https://isocpp.org/
+[SQL-url]:https://isocpp.org/
 
