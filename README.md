@@ -31,7 +31,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/05h9dcrN/image.png' border='0' alt='image'/></a>
+<a href="https://postimages.org/" target="_blank">
+  <img 
+    src="https://i.postimg.cc/05h9dcrN/image.png" 
+    border="0" 
+    alt="image"
+    width="100" 
+    height="100"
+  />
+</a>
 
   <h3 align="center">Project-Menu🎶</h3>
 
