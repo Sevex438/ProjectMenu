@@ -66,9 +66,9 @@ Some info about it:
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [![Qt][Qt]][Qt-url]  
+* [![C++][C++]][C++-url]
 * [![SQL][SQL]][SQL-url]
-* [![C++][C++.com]][C++-url]
-* [![Qt][Qt.com]][Qt-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,10 +106,12 @@ Project Link: [https://github.com/Sevex438/ProjectMenu](https://github.com/Sevex
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[Qt]:https://img.shields.io/badge/Qt-32CD32?style=for-the-badge&logo=Qt&logoColor=white
+[Qt]: https://img.shields.io/badge/Qt-32CD32?style=for-the-badge&logo=Qt&logoColor=white
 [Qt-url]: https://qt.io
-[C++]:https://img.shields.io/badge/C++-CD5C5C?style=for-the-badge&logo=C++&logoColor=white
-[C++-url]:https://isocpp.org/
-[SQL]:https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=SQL&logoColor=white
-[SQL-url]:https://isocpp.org/
+
+[C++]: https://img.shields.io/badge/C++-CD5C5C?style=for-the-badge&logo=C++&logoColor=white  
+[C++-url]: https://isocpp.org/
+
+[SQL]: https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=SQL&logoColor=white
+[SQL-url]: https://www.w3schools.com/sql/
 
