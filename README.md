@@ -66,9 +66,11 @@ Some info about it:
 ### Built With
 
 I used these tools and programming language
-* [![Qt][Qt]][Qt-url]  
-* [![C++][C++]][C++-url]
-* [![SQL][SQL]][SQL-url]
+<div style="display: flex; justify-content: space-between;">
+* [![Qt][Qt]][Qt-url]
+* [![C++][C++]][C++-url]  
+* [![SQL][SQL]][SQL-url] 
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
