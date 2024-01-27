@@ -31,9 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/05h9dcrN/image.png' border='0' alt='image'/></a>
 
   <h3 align="center">Project-Menu🎶</h3>
 
