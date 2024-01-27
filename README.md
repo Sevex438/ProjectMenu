@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![ProjectMenu][ProjectMenu sreenshot]](https://i.postimg.cc/Z5fzWnhN/Whats-App-Image-2024-01-27-at-7-07-43-PM.jpg)
+<a href='https://postimg.cc/pmn672rV' target='_blank'><img src='https://i.postimg.cc/Z5fzWnhN/Whats-App-Image-2024-01-27-at-7-07-43-PM.jpg' border='0' alt='Whats-App-Image-2024-01-27-at-7-07-43-PM'/></a>
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
